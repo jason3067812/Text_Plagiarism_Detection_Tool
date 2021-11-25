@@ -13,7 +13,9 @@
 2. Compare jaccard similarity
 3. Compare Cosine similarity
 ## tool exhibition
-<img align="center" src="https://user-images.githubusercontent.com/56544982/143400529-8bad8c8b-9460-49cf-b9c0-28404c37cc36.png" width = "600" height = "400" alt="1"  />
+<p align="center">
+  <img width="600" height="400" src="https://user-images.githubusercontent.com/56544982/143400529-8bad8c8b-9460-49cf-b9c0-28404c37cc36.png">
+</p>
 <img src="https://user-images.githubusercontent.com/56544982/143402817-8e835c49-eb00-4c89-88af-24e3b7093bf5.png" width = "600" height = "400" alt="1" align="center" />
 
 
