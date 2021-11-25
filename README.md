@@ -15,6 +15,7 @@
 3. Compare Cosine similarity
 ![image](https://user-images.githubusercontent.com/56544982/143402599-58431839-ad6e-46ae-9012-f7ae5902538e.png)
 ## tool exhibition
-![image](https://user-images.githubusercontent.com/56544982/143400529-8bad8c8b-9460-49cf-b9c0-28404c37cc36.png)
-![image](https://user-images.githubusercontent.com/56544982/143400597-ad0c2ebd-e4a5-46b6-a6c3-f3d6ff54b6ed.png)
+<img src="https://user-images.githubusercontent.com/56544982/143400529-8bad8c8b-9460-49cf-b9c0-28404c37cc36.png" width = "300" height = "200" alt="1" align=center />
+![image](https://user-images.githubusercontent.com/56544982/143402817-8e835c49-eb00-4c89-88af-24e3b7093bf5.png)
+
 
