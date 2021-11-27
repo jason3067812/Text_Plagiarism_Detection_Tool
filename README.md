@@ -1,4 +1,4 @@
-# Side_Project-plagiarism_detection_tool
+# Plagiarism detection tool
 ## Function introduction
 1. Select file
 2. Read the file
