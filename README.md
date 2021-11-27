@@ -9,7 +9,7 @@
 <br> - Retrieve all words in the file content
 <br> - Store it in the dictionary and count the number of occurrences of the word
 <br> - Calculate the degree of difference: total difference / (total number of dictionaries 1 + total number of dictionaries 2)
-<br> - Similarity = 1- Difference
+<br> - Finally, the similarity = 1 - Difference
 2. Compare jaccard similarity
 3. Compare Cosine similarity
 ## Usage
