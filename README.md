@@ -1,4 +1,4 @@
-# Article Plagiarism Detection Tool
+# Text Plagiarism Detection Tool
 ## Function introduction
 1. Select file
 2. Read the file
